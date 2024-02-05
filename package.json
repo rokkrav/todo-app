@@ -1,0 +1,15 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "Simple todo application where we can track todos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ravi Rokkam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "zod": "^3.22.4"
+  }
+}
